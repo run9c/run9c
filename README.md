@@ -20,11 +20,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python Projects**
+ 🔭 I’m currently working on **Cybersecurity**
  
  🌱 I’m currently learning **Digital Business & AI**
 
-💬 Ask me about **Python**
+💬 Ask me about **Cybersecurity**
 
 ⚡ Fun fact: **Octopuses have three hearts and blue blood!**
 
