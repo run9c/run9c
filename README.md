@@ -15,6 +15,8 @@
 
 <br> 
 
+Marun is a Cyber Security Expert with a passion for digital protection and risk mitigation strategies. Currently focusing on Cybersecurity projects, Marun is also delving into the realms of Digital Business and AI, broadening their expertise. With a knack for problem-solving and a deep understanding of cybersecurity principles, Marun is always ready to tackle new challenges in the ever-evolving landscape of digital security. 
+
 <div align="center">
  
  🔭 I’m currently working on **Cybersecurity**
@@ -23,7 +25,7 @@
 
 💬 Ask me about **Cybersecurity**
 
-⚡ Fun fact: **Octopuses have three hearts and blue blood!**
+⚡ Reach me out: kolojalloh@gmail.com
 
  </div>
 
